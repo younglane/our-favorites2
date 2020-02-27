@@ -1,3 +1,8 @@
+Sushi
+Pizza
+Oreos
+lettuce
+=======
 favorite foods:
 Lane: Sushi
 Adam: Sushi
@@ -7,3 +12,4 @@ Sushi
 Pizza
 Oreos
 
+>>>>>>> master
